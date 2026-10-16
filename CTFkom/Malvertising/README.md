@@ -188,7 +188,7 @@ This is where the chain ends. Instead of another redirect, the server returns `H
 
 This is **JSFuck**, an obfuscation technique that writes valid JavaScript using only six characters. Attackers use it to make code unreadable and to evade signature-based detection.
 
-I saved the response with *Save as…* and decoded it with dCode's JSFuck decoder in **"Display as JavaScript"** mode. That mode shows the code without executing it, which matters when handling potentially malicious code.
+I copied the code and decoded it with dCode's JSFuck decoder in **"Display as JavaScript"** mode. That mode shows the code without executing it, which matters when handling potentially malicious code.
 
 ![Decoded flag](images/12-dcode-flag.png)
 
